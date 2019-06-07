@@ -1,1 +1,2 @@
 
+This is Europe's Political data which consists of information about life expectancy, pollution, population, unemployment, work hours, weather, trust in police, trust in legal authorities,  Income, GDP, leisure satisfaction, trust in politics, environment satisfaction, low savings and crime for all the countries in Europe. I am going to compare these political situations or sentiments of people living in different parts of Europe using Data Analytics and Data Visualization.
