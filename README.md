@@ -14,7 +14,7 @@ Europe, in particular ancient Greece, was the birthplace of Western civilization
 The Age of Enlightenment, the subsequent French Revolution and the Napoleonic Wars shaped the continent culturally, politically and economically from the end of the 17th century until the first half of the 19th century. The Industrial Revolution, which began in Great Britain at the end of the 18th century, gave rise to radical economic, cultural and social change in Western Europe and eventually the wider world. Both world wars took place for the most part in Europe, contributing to a decline in Western European dominance in world affairs by the mid-20th century as the Soviet Union and the United States took prominence.[11] During the Cold War, Europe was divided along the Iron Curtain between NATO in the West and the Warsaw Pact in the East, until the revolutions of 1989 and fall of the Berlin Wall.
 
 
-# Subregions of Europe - CIA World Factbook
+## Subregions of Europe - CIA World Factbook
   Northern Europe
   Western Europe
   Central Europe
@@ -24,3 +24,6 @@ The Age of Enlightenment, the subsequent French Revolution and the Napoleonic Wa
   Eastern Europe
   
 In 1949 the Council of Europe was founded, following a speech by Sir Winston Churchill, with the idea of unifying Europe to achieve common goals. It includes all European states except for Belarus, Kazakhstan and Vatican City. Further European integration by some states led to the formation of the European Union (EU), a separate political entity that lies between a confederation and a federation.[12] The EU originated in Western Europe but has been expanding eastward since the fall of the Soviet Union in 1991. The currency of most countries of the European Union, the euro, is the most commonly used among Europeans; and the EU's Schengen Area abolishes border and immigration controls among most of its member states.
+
+Thank you for Visiting.
+Please feel free to fork and star.
